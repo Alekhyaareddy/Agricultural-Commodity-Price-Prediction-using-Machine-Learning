@@ -1,4 +1,4 @@
-qqqqqqqqqr📊 Agricultural Commodity Price Analysis & Predictive Insights
+qqqqqqqqqqr📊 Agricultural Commodity Price Analysis & Predictive Insights
 📌 Project Overview hellp
 
 This project focuses on analyzing agricultural commodity price data using data analytics and predictive analysis techniques. The goal is to understand price trends, regional variations, commodity performance, and profit margins, and to present insights through an interactive Power BI dashboard.
