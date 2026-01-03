@@ -7,7 +7,7 @@ The project helps farmers, traders, students, and policymakers make data-driven 
 
 🎯 Objectives of the Project
 
-Analyze historical agricultural commodity price data.
+Analyze historical agricultural commodity price data
 
 Identify price trends, seasonal patterns, and regional variations
 
