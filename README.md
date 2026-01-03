@@ -5,7 +5,7 @@ This project focuses on analyzing agricultural commodity price data using data a
 
 The project helps farmers, traders, students, and policymakers make data-driven decisions by converting raw agricultural market data into meaningful insights and future price indications.
 
-🎯 Objectives of the Project
+🎯 Objectives of the Project 
 
 Analyze historical agricultural commodity price data.
 
