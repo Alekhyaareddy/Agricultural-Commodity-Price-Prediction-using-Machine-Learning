@@ -21,7 +21,7 @@ Build an interactive and user-friendly Power BI dashboard
 
 📂 Dataset Description
 
-The dataset includes agricultural market price data with the following fields:
+The dataset includes agricultural market price data with the following fields: 
 
 State
 
